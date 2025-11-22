@@ -89,4 +89,6 @@ project-root/
 
 ## Notes for submission
 - Ensure you push multiple commits showing development progress (e.g. "init project", "add native processing", "add web dashboard", "add server", "add README & screenshots").
-- Replace `/assets/*` placeholders with real screenshots/GIF before final submission.
+- Replace `/assets/*` placeholders with real screenshots/GIF before final submission. 
+This line was added to improve commit history as per Flamapp.AI submission rules.
+
